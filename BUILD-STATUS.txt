@@ -1,0 +1,1 @@
+Source prototype. C++ build and tests NOT executed here. Cloud workflow prepared, not dispatched. Scope is separate from the successful Bloom/Halo build shown by the user. Python packaging syntax and source ZIP integrity checked only.
