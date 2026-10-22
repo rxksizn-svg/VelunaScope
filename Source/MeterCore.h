@@ -1,6 +1,8 @@
 #pragma once
 #include <ebur128.h>
+extern "C" {
 #include <fvad.h>
+}
 #include <array>
 #include <vector>
 #include <cmath>
